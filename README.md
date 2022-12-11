@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @beiningY
+- 🌱 我的目标是学习 NLP、Java 和Python
+- 📫 如何联系我：beiningyang1@gmail.com
